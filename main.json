@@ -1,0 +1,62 @@
+{
+  "topic": "Five weird deals",
+
+  "company": "Amazon",
+  "deals": [
+    {
+      "productName": "A dog dryer",
+      "price": 39.95,
+      "description": "Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house.",
+      "features": [
+        "sky-blue",
+        "water-resistant",
+      ],
+      "image": "dog-dryer.jpg"
+    },
+    {
+      "productName": "a baby mop",
+      "price": 29.99,
+      "description": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you",
+      "features": [
+        "yellow colored",
+        "fluffy",
+        "easy to wash"
+      ],
+      "image": "baby-mop.jpg"
+    },
+    {
+      "productName": "A realistic dog pillow",
+      "price": 14.99,
+      "description": "Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one",
+      "features": [
+        "easy to wash",
+        "non-allergic",
+        "expense-free"
+      ],
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "productName": "A cat carrier dress",
+      "price":16.99,
+      "description": "Bringing your cat around in a plastic carrier is so passé. If you need to keep your cat closer, you can always opt for this dress with a cat pouch instead.",
+      "features": [
+        "washable",
+        "water-resistant",
+
+      ],
+      "image": "cat-carrier-dress.jpeg"
+    },
+    {
+      "productName": "30 pieces of fake garlic",
+      "price": 10.99,
+      "description": "Decorating with fake fruit isn't exactly unheard of, but if you want a break from tradition (or are just eager to make your house look like an Olive Garden), these 30 pieces of fake garlic should do the trick.",
+      "features": [
+        "smell-free",
+        "no need of cleaning",
+
+      ],
+      "image": "fake-garlic.jpg"
+    }
+
+  ]
+}
